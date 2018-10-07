@@ -5,6 +5,6 @@
 - Multi-Layer Perceptron
 - Convolutional Neural Network(AlexNet, VGG, ResNet...)
 - Regularization (Dropout, Batch-Normalization....)
-- Recurrent Neural Network (LSTM)
+- Recursive Neural Network (LSTM)
 - Reinforcement Learning (Theorem)
 - Generative Adversarial Network (Theorem)
