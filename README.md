@@ -4,7 +4,7 @@
 - Logistic Regression
 - Multi-Layer Perceptron
 - Convolutional Neural Network(AlexNet, VGG, ResNet...)
-- Regularization (Dropout, Batch-Normalization....)
+- Regularization (Dropout, Batch-Normalization...)
 - Recurrent Neural Network (LSTM based)
 - Reinforcement Learning (Theorem)
 - Generative Adversarial Network (Theorem)
